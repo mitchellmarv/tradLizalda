@@ -23,7 +23,7 @@ st.subheader("Escucho lo que quieres traducir.")
 # IMAGEN
 # =====================================================
 
-image = Image.open('OIG7.jpg')
+image = Image.open('dogmicro.jpg')
 
 st.image(image, width=300)
 
